@@ -9,8 +9,18 @@ Boilerplate below comes from the CamelForth stuff found here
 in another repository.  It is included mainly to describe the
 Atmel Start build environment required to make this project.
 
-In other ways it is very likely misleading.  Little or nothing
-was proofread below this line:
+That repository's name is CamelForth-SAMD51-SAMD21, and is
+the more accurate context for what is currently found in
+this readme file.
+
+In other ways this very README.md file is likely to be
+at least somewhat misleading.
+
+Again, this is boilerplate text, copied without inspection
+from a different context that's only somewhat related to
+the current context.
+
+Little or nothing was proofread below this line:
 
   --- this line ---   << that one
 
@@ -150,8 +160,10 @@ sub-tree; 1.8.0-48 was present and was used, here.
 
 Wed Sep 12 02:26:01 UTC 2018
 
-On branch camelforth
+Fri Sep 21 20:28:58 UTC 2018
+
+On branch master
 
  $ cat ./README.md | sed 168q | md5sum
 
-aec91e25178a14beadb278b89348db9f
+aec91--INVALID_MD5SUM--89348db9f
