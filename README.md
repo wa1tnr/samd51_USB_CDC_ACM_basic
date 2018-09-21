@@ -20,6 +20,13 @@ Again, this is boilerplate text, copied without inspection
 from a different context that's only somewhat related to
 the current context.
 
+Note! The business about the USART reflects an earlier
+project that uses the PiUART and the SAMD51 (or SAMD21)
+USART.
+
+There are some commonalities, but the present context is
+for USB rather than the USART. ;)  Sorry.
+
 Little or nothing was proofread below this line:
 
   --- this line ---   << that one
